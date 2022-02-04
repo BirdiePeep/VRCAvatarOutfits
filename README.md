@@ -4,7 +4,7 @@ Simple script to help attaching and and managing outfits for vrchat avatars.
 USEAGE
 
 - Attach the AvatarOutfits script to a GameObject other then your avatar in the scene.
-- Provide some reference to the base avatar prefab.  This tells the script what the avatar without outfits looks like and what not to touch on the avatar in the scene.
+- Provide some reference to the base avatar prefab.  This tells the script what the avatar looks like without outfits and what not to touch on the avatar in the scene.
 - Give reference to the avatar descriptor in the scene as well as any number of outfit prefabs.
 - Attach or Remove the outfits with the button provided.
 
